@@ -5,6 +5,8 @@ This is **Devesh Singh** from ***India 🇮🇳***
 
 I am student and continue my study along with programming.
 
+I have experience of 2+ years in HTML, CSS, PHP, MySQL
+
 ### Languages
 #### Master in Language
 - HTML
