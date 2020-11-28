@@ -16,11 +16,13 @@ I have experience of 2+ years in HTML, CSS, PHP, MySQL
 
 #### Currently learning
 - Python
-
+_________________
 ### Contact Me
 Contact me at my email : connect.world12345@gmail.com
 
 On Facebook : www.facebook.com/devesh790
+_________________
+### Hire me
 <!--
 **devesh7272/devesh7272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
