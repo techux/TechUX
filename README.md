@@ -7,6 +7,10 @@ I am student and continue my study along with programming.
 
 I have experience of 2+ years in HTML, CSS, PHP, MySQL
 
+### Statistics
+[![Total Repository](https://badges.pufler.dev/repos/devesh7272)](https://github.com/devesh7272)
+
+
 ### Languages
 #### Master in Language
 - HTML
