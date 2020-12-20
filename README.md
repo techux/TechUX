@@ -10,7 +10,9 @@ I have experience of 2+ years in HTML, CSS, PHP, MySQL
 ### Statistics
 [![Total Repository](https://badges.pufler.dev/repos/devesh7272)](https://github.com/devesh7272)
 
+[![Created at](https://badges.pufler.dev/created/devesh7272/devesh7272)](https://github.com/devesh7272/devesh7272/)
 
+[![Updated on ](https://badges.pufler.dev/updated/devesh7272/devesh7272)](https://github.com/devesh7272/devesh7272/)
 ### Languages
 #### Master in Language
 - HTML
