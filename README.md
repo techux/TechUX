@@ -1,13 +1,16 @@
-# Welcome
-## Hi there 👋 
-_________________
+# Hello there
 This is **Devesh Singh** from ***India 🇮🇳***
-
+<p align="center"><a href="https://github.com/devesh7272">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devesh7272&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/devesh7272"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh7272&layout=compact&theme=react&hide_border=true" />
+</a></p>
 I am student and continue my study along with programming.
 
 I have experience of 2+ years in HTML, CSS, PHP, MySQL
 
 ### Statistics
+
 [![Total Repository](https://badges.pufler.dev/repos/devesh7272)](https://github.com/devesh7272?tab=repositories)
 
 [![Created at](https://badges.pufler.dev/created/devesh7272/devesh7272)](https://github.com/devesh7272/)
