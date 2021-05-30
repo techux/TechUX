@@ -1,6 +1,6 @@
 # This is [Devesh Singh](https://fb.me/devesh790) from [🇮🇳](https://en.m.wikipedia.org/wiki/India)
 
-**![](https://komarev.com/ghpvc/?username=devesh7272&style=flat-square&color=blueviolet&label=Profile+Views)**
+![](https://komarev.com/ghpvc/?username=devesh7272&style=flat-square&color=blueviolet&label=Profile+Views)
 <p align="center"><a href="https://github.com/devesh7272">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=devesh7272&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
