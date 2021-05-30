@@ -35,7 +35,10 @@ I am from India and wants to become a Software Engineer.
 ## GitHub Stats
 [![Github Stats](https://github-profile-trophy.vercel.app/?username=devesh7272&theme=dracula&no-frame=true)](https://github.com/devesh7272)
 ## Get in Touch
-[![Github](img/github.png "Github")](https://github.com/devesh7272) [![Facebook](img/facebook.png  "Facebook")](https://fb.com/devesh790) [![Messenger](img/messenger.png "Messenger")](https://m.me/devesh790) [![Instagram](img/instagram.png "Instagram")](https://www.instagram.com/devesh92744)
+<a href="https://github.com/devesh7272"><img align="left" title="Github" alt="Github" width="30px" src="img/github.png" /></a>
+<a href="https://fb.com/devesh790"><img align="left" title="Facebook" alt="Facebook" width="30px" src="img/facebook.png" /></a>
+<a href="https://m.me/devesh790"><img align="left" title="Messenger" alt="Messenger" width="30px" src="img/messenger.png" /></a>
+<a href="https://www.instagram.com/devesh92744"><img align="left" title="Instagram" alt="Instagram" width="30px" src="img/instagram.png" /></a><br>
 _________________
 ## Support Me
 Buy me coffee
