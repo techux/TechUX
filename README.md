@@ -24,6 +24,7 @@ I am from India and wants to become a Software Engineer.
   - PHP
 - Currently learning
   - Python
+  - C/C++
 ## Projects/ToolsTools
 - ✏ **[getindianname](https://github.com/devesh7272/getindianname)** : **[pypi package](https://pypi.org/project/getindianname)** : Generate 50K+ random *Indian Name*<br><br>
 - ✏ **[instagram-bot](https://github.com/devesh7272/instagram_bot)** : Unfollower tracker, Mass Follows and Mass unfollow, Follow list of user, Unfollow List of user automatically using Python.<br><br>
