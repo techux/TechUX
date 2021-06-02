@@ -32,7 +32,7 @@ I am from India and wants to become a Software Engineer.
 - ✏ **[gmail-brute](https://github.com/devesh7272/gmail-brute)** : Brute force Gmail Accounts to Crack passwords.<br><br>
 - ✏ **[PyDos](https://github.com/devesh7272/pyDos)** : Dos (Denial of Service) Attack Script in Python.Down Any WebServer in less than **1.3 Seconds** .It send unlimited number of packets to every port of website to make the web server down.<br><br>
 - ✏ **[traffic-generator](https://github.com/devesh7272/traffic-generator)** : Organic Traffic Generator Using Proxy and Random User Agent to get Perfect Traffic to your YouTube Channel and website.<br><br>
-- ✏ **[View All](https://github.com/devesh7272?tab=repositories)**
+- ✏ **[View All](https://github.com/techux?tab=repositories)**
 ## GitHub Stats
 [![Github Stats](https://github-profile-trophy.vercel.app/?username=techux&theme=dracula&no-frame=true)](https://github.com/techux)
 ## Get in Touch
