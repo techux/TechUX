@@ -20,7 +20,6 @@ I am from India and wants to become a Software Engineer.
 ### Languages
 - Master in Language
   - HTML
-  - CSS
   - MySQL
   - PHP
 - Currently learning
