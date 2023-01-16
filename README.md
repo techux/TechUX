@@ -25,6 +25,17 @@ I am from India and wants to become a Software Engineer.
 - Currently learning
   - Python
   - C/C++
+## Latest Project
+- ### **[bulidlink](https://github.com/TechUX/buildlink)** 
+
+[![Available on Pypi](https://img.shields.io/badge/Available%20on%20-Pypi-brightgreen.svg?style=flat-square)](https://pypi.org/project/buildlink/)
+[![Awesome Badges](https://img.shields.io/badge/Pypi-Install-brightgreen?logo=pypi)](https://pypi.org/project/buildlink/)
+[![Downloads](https://static.pepy.tech/personalized-badge/buildlink?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Total%20pypi.org%20Downloads)](https://pepy.tech/project/buildlink)
+
+buildlink is a python program which helps you to shorten link with a single command without any registration or using any API Key.Its also provide option to expand any link available on internet on wide range of domain names.
+<br>[Goto Project](https://github.com/TechUX/buildlink)
+
+
 ## Projects/ToolsTools
 - ✏ **[getindianname](https://github.com/devesh7272/getindianname)** : **[pypi package](https://pypi.org/project/getindianname)** : Generate 50K+ random *Indian Name*<br><br>
 - ✏ **[instagram-bot](https://github.com/devesh7272/instagram_bot)** : Unfollower tracker, Mass Follows and Mass unfollow, Follow list of user, Unfollow List of user automatically using Python.<br><br>
