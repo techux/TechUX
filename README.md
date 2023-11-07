@@ -1,7 +1,7 @@
 # This is [Devesh Singh](https://fb.me/devesh790) from [🇮🇳](https://en.m.wikipedia.org/wiki/India)
 
 ![](https://komarev.com/ghpvc/?username=techux&style=flat-square&color=blueviolet&label=Profile+Views)
-[![Total Repository](https://badges.pufler.dev/repos/techux)](https://github.com/techux?tab=repositories)
+[![Total Repository](https://img.shields.io/badge/Repos-19-brightgreen)](https://github.com/techux?tab=repositories)
 
 <p align="center"><a href="https://github.com/techux">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=techux&show_icons=true&include_all_commits=true&theme=react&cache_seconds=30&hide_border=true" /></a>
