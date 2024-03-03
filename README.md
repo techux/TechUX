@@ -1,4 +1,4 @@
-# This is [Devesh Singh](https://fb.me/devesh790) from [🇮🇳](https://en.m.wikipedia.org/wiki/India)
+# Devesh Singh from [🇮🇳](https://en.m.wikipedia.org/wiki/India)
 
 ![](https://komarev.com/ghpvc/?username=techux&style=flat-square&color=blueviolet&label=Profile+Views)
 [![Total Repository](https://img.shields.io/badge/Repos-19-brightgreen)](https://github.com/techux?tab=repositories)
@@ -8,15 +8,16 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/techux"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techux&layout=compact&theme=react&hide_border=true" />
 </a></p>
-I am student and continue my study along with programming.
+<!-- I am student and continue my study along with programming.
+I am from India and wants to become a Software Engineer. -->
 
-I am from India and wants to become a Software Engineer.
 <!--
 ### Statistics
 [![Created at](https://badges.pufler.dev/created/techux/techux)](https://github.com/techux/)
 [![Updated on ](https://badges.pufler.dev/updated/techux/techux)](https://github.com/techux/)
 -->
 
+<!-- 
 ### Languages
 - Master in Language
   - HTML
@@ -25,6 +26,8 @@ I am from India and wants to become a Software Engineer.
 - Currently learning
   - Python
   - C/C++
+    -->
+    
 ## Latest Project
 - ### **[bulidlink](https://github.com/TechUX/buildlink)** 
 
