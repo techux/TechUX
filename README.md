@@ -29,7 +29,7 @@ I am from India and wants to become a Software Engineer. -->
     -->
     
 ## Latest Project
-- ### **[bulidlink](https://github.com/TechUX/buildlink)** 
+- ### **[bulidlink](https://github.com/TechUX/buildlink)**  ![Pepy Total Downlods](https://img.shields.io/pepy/dt/buildlink)
 
 [![Available on Pypi](https://img.shields.io/badge/Available%20on%20-Pypi-brightgreen.svg?style=flat-square)](https://pypi.org/project/buildlink/)
 [![Awesome Badges](https://img.shields.io/badge/Pypi-Install-brightgreen?logo=pypi)](https://pypi.org/project/buildlink/)
@@ -40,7 +40,8 @@ buildlink is a python program which helps you to shorten link with a single comm
 
 
 ## Projects/ToolsTools
-- ✏ **[getindianname](https://github.com/devesh7272/getindianname)** : **[pypi package](https://pypi.org/project/getindianname)** : Generate 50K+ random *Indian Name*<br><br>
+- ✏ **[getindianname](https://github.com/devesh7272/getindianname)** : **[pypi package](https://pypi.org/project/getindianname)** : Generate 50K+ random *Indian Name* ![Pepy Total Downlods](https://img.shields.io/pepy/dt/getindianname)
+ <br><br> 
 - ✏ **[instagram-bot](https://github.com/devesh7272/instagram_bot)** : Unfollower tracker, Mass Follows and Mass unfollow, Follow list of user, Unfollow List of user automatically using Python.<br><br>
 - ✏ **[gmail-brute](https://github.com/devesh7272/gmail-brute)** : Brute force Gmail Accounts to Crack passwords.<br><br>
 - ✏ **[PyDos](https://github.com/devesh7272/pyDos)** : Dos (Denial of Service) Attack Script in Python.Down Any WebServer in less than **1.3 Seconds** .It send unlimited number of packets to every port of website to make the web server down.<br><br>
