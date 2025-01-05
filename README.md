@@ -1,75 +1,77 @@
-# Devesh Singh from [🇮🇳](https://en.m.wikipedia.org/wiki/India)
+<!-- # Devesh Singh from [🇮🇳](https://en.m.wikipedia.org/wiki/India) -->
+
+<h1 align="center">Hi 👋, I'm Devesh</h1>
+<h3 align="center">Python | Node JS | Backend Development | MongoDB</h3>
 
 ![](https://komarev.com/ghpvc/?username=techux&style=flat-square&color=blueviolet&label=Profile+Views)
-[![Total Repository](https://img.shields.io/badge/Repos-19-brightgreen)](https://github.com/techux?tab=repositories)
+[![Last Updated ](https://badges.pufler.dev/updated/techux/techux)](https://github.com/techux/)
 
-<p align="center"><a href="https://github.com/techux">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=techux&show_icons=true&include_all_commits=true&theme=react&cache_seconds=30&hide_border=true" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/techux"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techux&layout=compact&theme=react&hide_border=true" />
-</a></p>
-<!-- I am student and continue my study along with programming.
-I am from India and wants to become a Software Engineer. -->
+- 🌱 I’m currently learning **ReactJS and tailwind**
+- 💬 Ask me about **Python, NodeJS**
+- 📫 How to reach me [deveshkumarsingh75@gmail.com](mailto:deveshkumarsingh75@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/devesh75/)
 
-<!--
-### Statistics
-[![Created at](https://badges.pufler.dev/created/techux/techux)](https://github.com/techux/)
-[![Updated on ](https://badges.pufler.dev/updated/techux/techux)](https://github.com/techux/)
--->
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/144ePnW6vJZH6XMWKLyBaU0-vUWtAMXxO/view?usp=sharing)
 
-<!-- 
-### Languages
-- Master in Language
-  - HTML
-  - MySQL
-  - PHP
-- Currently learning
-  - Python
-  - C/C++
-    -->
-    
-## Latest Project
-- ### **[bulidlink](https://github.com/TechUX/buildlink)**  ![Pepy Total Downlods](https://img.shields.io/pepy/dt/buildlink)
+---
 
-[![Available on Pypi](https://img.shields.io/badge/Available%20on%20-Pypi-brightgreen.svg?style=flat-square)](https://pypi.org/project/buildlink/)
-[![Awesome Badges](https://img.shields.io/badge/Pypi-Install-brightgreen?logo=pypi)](https://pypi.org/project/buildlink/)
-[![Downloads](https://static.pepy.tech/personalized-badge/buildlink?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Total%20pypi.org%20Downloads)](https://pepy.tech/project/buildlink)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=techux&theme=monokai-metallian" alt="GitHub Streak">
+</p>
 
-buildlink is a python program which helps you to shorten link with a single command without any registration or using any API Key.Its also provide option to expand any link available on internet on wide range of domain names.
-<br>[Goto Project](https://github.com/TechUX/buildlink)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techux&show_icons=true&include_all_commits=true&theme=react&cache_seconds=30&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techux&layout=compact&theme=react&hide_border=true" style="height:195px">
+</p>
 
+---
 
-## Projects/ToolsTools
-- ✏ **[getindianname](https://github.com/devesh7272/getindianname)** : **[pypi package](https://pypi.org/project/getindianname)** : Generate 50K+ random *Indian Name* ![Pepy Total Downlods](https://img.shields.io/pepy/dt/getindianname)
- <br><br> 
-- ✏ **[instagram-bot](https://github.com/devesh7272/instagram_bot)** : Unfollower tracker, Mass Follows and Mass unfollow, Follow list of user, Unfollow List of user automatically using Python.<br><br>
-- ✏ **[gmail-brute](https://github.com/devesh7272/gmail-brute)** : Brute force Gmail Accounts to Crack passwords.<br><br>
-- ✏ **[PyDos](https://github.com/devesh7272/pyDos)** : Dos (Denial of Service) Attack Script in Python.Down Any WebServer in less than **1.3 Seconds** .It send unlimited number of packets to every port of website to make the web server down.<br><br>
-- ✏ **[traffic-generator](https://github.com/devesh7272/traffic-generator)** : Organic Traffic Generator Using Proxy and Random User Agent to get Perfect Traffic to your YouTube Channel and website.<br><br>
-- ✏ **[View All](https://github.com/techux?tab=repositories)**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devesh75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh75" height="30" width="40" /></a>
+<a href="https://hashnode.com/deveshsingh" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/h/56/hashnode.svg" alt="deveshsingh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/devesh75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devesh75" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devesh75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devesh75" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/deveshkumarsingh75/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deveshkumarsingh75/profile" height="30" width="40" /></a>
+</p>
+
+### Language and Skills
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+</p>
+
+### Frameworks Known:
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/f/50/flask.svg" alt="flask" width="40" height="40"/> </a> 
+</p>
+
+### Tools and Platforms
+<p align="left"> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://github.com"><img src="https://static.cdnlogo.com/logos/g/69/github-icon.svg" alt="git" width="40" height="40"></a>
+  <a href="https://code.visualstudio.com/"><img src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg" alt="VS code" width="40" height="40"> </a>
+</p>
+
+### Also familiar with:
+<p align="left"> 
+<a href="https://php.net"><img src="https://static.cdnlogo.com/logos/p/79/php.svg" alt="git" width="40" height="40"></a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+</p>
+
 ## GitHub Stats
 [![Github Stats](https://github-profile-trophy.vercel.app/?username=techux&theme=dracula&no-frame=true)](https://github.com/techux)
-## Get in Touch
-<a href="https://github.com/techux"><img align="left" title="Github" alt="Github" width="30px" src="img/github.png" /></a>
-<a href="https://fb.com/devesh790"><img align="left" title="Facebook" alt="Facebook" width="30px" src="img/facebook.png" /></a>
-<a href="https://m.me/devesh790"><img align="left" title="Messenger" alt="Messenger" width="30px" src="img/messenger.png" /></a>
-<a href="https://www.instagram.com/devesh92744"><img align="left" title="Instagram" alt="Instagram" width="30px" src="img/instagram.png" /></a><br>
-_________________
-## Support Me
-Buy me coffee
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y028S3X)
-_________________
-<!--
-**devesh7272/devesh7272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
