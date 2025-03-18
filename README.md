@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=techux&theme=monokai-metallian" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats-three-ruby.vercel.app?user=techux&theme=monokai-metallian" alt="GitHub Streak">
 </p>
 
 <p align="center">
