@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=techux&style=flat-square&color=blueviolet&label=Profile+Views)
 [![Last Updated ](https://badges.pufler.dev/updated/techux/techux)](https://github.com/techux/)
 
-- 🌱 I’m currently learning **ReactJS and tailwind**
+- 🌱 I’m currently learning **ReactJS, tailwindCSS, Docker**
 - 💬 Ask me about **Python, NodeJS**
 - 📫 How to reach me [deveshkumarsingh75@gmail.com](mailto:deveshkumarsingh75@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/devesh75/)
 
@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-three-ruby.vercel.app?user=techux&theme=monokai-metallian" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats-three-ruby.vercel.app?user=techuX&theme=monokai-metallian" alt="GitHub Streak">
 </p>
 
 <p align="center">
