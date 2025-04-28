@@ -23,6 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techux&layout=compact&theme=react&hide_border=true" style="height:195px">
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 <h3 align="left">Connect with me:</h3>
