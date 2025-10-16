@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techux&show_icons=true&include_all_commits=true&theme=react&cache_seconds=30&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techux&layout=compact&theme=react&hide_border=true" style="height:195px">
+  <img src="https://github-readme-stats-total-kinky-69.vercel.app/api?username=techux&show_icons=true&include_all_commits=true&theme=react&cache_seconds=30&hide_border=true">
+  <img src="https://github-readme-stats-total-kinky-69.vercel.app/api/top-langs/?username=techux&layout=compact&theme=react&hide_border=true" style="height:195px">
 </p>
 
 <!--START_SECTION:waka-->
