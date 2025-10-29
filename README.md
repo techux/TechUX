@@ -149,5 +149,8 @@ EJS                      3 repos             █░░░░░░░░░░�
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
 
+## Holopin badges
+[![An image of @deveshsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deveshsingh)](https://holopin.io/@deveshsingh)
+
 ## GitHub Stats
 [![Github Stats](https://github-profile-trophy.vercel.app/?username=techux&theme=dracula&no-frame=true)](https://github.com/techux)
