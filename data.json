@@ -1,0 +1,365 @@
+{
+  "name": "Devesh Singh",
+  "roles": [
+    "Software Developer",
+    "Backend Developer",
+    "Full Stack Enthusiast"
+  ],
+  "shortBio": "Backend-focused software engineer building scalable APIs and high-performance systems using Node.js, Python, and MongoDB",
+  "profileImage": "https://avatars.githubusercontent.com/u/58107305?v=4",
+  "about": "I am a backend-focused software engineer with hands-on experience building and maintaining production-grade systems. I specialize in Node.js, Express, MongoDB, and Python, and enjoy designing clean APIs, optimizing database performance, and solving real-world engineering problems. I like working on projects that scale, writing maintainable code, and continuously learning technologies that help me build better, more reliable software.",
+  "personalDetails": [
+    {
+      "label": "Name",
+      "value": "Devesh Kumar Singh"
+    },
+    {
+      "label": "Email",
+      "value": "deveshkumarsingh75@gmail.com"
+    },
+    {
+      "label": "Phone",
+      "value": "+919569543114"
+    },
+    {
+      "label": "Location",
+      "value": "India"
+    },
+    {
+      "label": "Experience",
+      "value": "8 Months"
+    },
+    {
+      "label": "Freelance",
+      "value": "Available"
+    },
+    {
+      "label": "Freelance",
+      "value": "Available"
+    }
+  ],
+  "resumeUrl": "https://drive.google.com/file/d/1jARXdDNC_Lcy_SacFUWAfR80XYdWGSdC/view?usp=drive_link",
+  "services": [
+    {
+      "icon": "Laptop",
+      "title": "Web Development",
+      "description": "Developing responsive, high-performance web applications using modern technologies like React, Next.js, and Node.js."
+    },
+    {
+      "icon": "Palette",
+      "title": "UI/UX Design",
+      "description": "Creating intuitive, visually appealing interfaces and user experiences that prioritize usability and engagement."
+    },
+    {
+      "icon": "Server",
+      "title": "API Development",
+      "description": "Designing and building robust RESTful and GraphQL APIs for seamless data communication between systems."
+    },
+    {
+      "icon": "Cloud",
+      "title": "Cloud Services",
+      "description": "Deploying and managing applications on cloud platforms like AWS, Azure, Render, and Vercel for scalability and reliability."
+    },
+    {
+      "icon": "Settings",
+      "title": "Custom Software Solutions",
+      "description": "Building tailored software solutions to meet unique business requirements and improve operational efficiency."
+    },
+    {
+      "icon": "Users",
+      "title": "Freelance Support",
+      "description": "Providing ongoing maintenance, updates, and technical support to ensure applications run smoothly and efficiently."
+    }
+  ],
+  "skills": {
+    "technical": [
+      {
+        "name": "JavaScript",
+        "level": 95
+      },
+      {
+        "name": "React.js",
+        "level": 90
+      },
+      {
+        "name": "Node.js",
+        "level": 85
+      },
+      {
+        "name": "TypeScript",
+        "level": 80
+      },
+      {
+        "name": "Next.js",
+        "level": 85
+      },
+      {
+        "name": "MongoDB",
+        "level": 80
+      },
+      {
+        "name": "Python",
+        "level": 85
+      }
+    ],
+    "professional": [
+      {
+        "name": "Agile Methodologies",
+        "level": 85
+      },
+      {
+        "name": "Critical Thinking",
+        "level": 90
+      },
+      {
+        "name": "Problem Solving",
+        "level": 90
+      },
+      {
+        "name": "Communication",
+        "level": 85
+      },
+      {
+        "name": "Teamwork",
+        "level": 90
+      },
+      {
+        "name": "Time Management",
+        "level": 80
+      },
+      {
+        "name": "Adaptability",
+        "level": 85
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Express",
+      "GraphQL",
+      "REST API",
+      "SQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redux",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "BootstrapCSS",
+      "Git",
+      "GitHub",
+      "Docker",
+      "AWS",
+      "Azure",
+      "Linux CLI",
+      "Postman",
+      "Webpack",
+      "Vite",
+      "Jest",
+      "React Testing Library",
+      "WebSockets",
+      "Flask",
+      "Prisma",
+      "Redis",
+      "JWT",
+      "SMTP",
+      "PHP",
+      "Bash",
+      "BeautifulSoup",
+      "Python-Selenium",
+      "Bot Development",
+      "WordPress",
+      "AI",
+      "CDN",
+      "VS Code",
+      "Module Integration"
+    ]
+  },
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "degree": "Bachelor's of Engineering in Computer Science and Engineering",
+      "duration": "2021 - 2025",
+      "grade": "7.81 CGPA",
+      "description": "Completed a degree in Computer Science and Engineering with a focus on software development, algorithms, and data structures."
+    },
+    {
+      "institution": "Tomar Children School",
+      "degree": "Senior Secondary",
+      "duration": "2020 - 2021",
+      "grade": "91%",
+      "description": "Completed senior secondary education with a focus on science subjects including Physics, Chemistry, Mathematics and Information Technology."
+    },
+    {
+      "institution": "Tomar Children School",
+      "degree": "Matriculation",
+      "duration": "2018 - 2019",
+      "grade": "94.8%",
+      "description": "Completed matriculation with a strong academic record across all subjects."
+    }
+  ],
+  "experience": [
+    {
+      "company": "Aarsaar Technologies Pvt. Ltd.",
+      "position": "SDE Intern (Backend Development)",
+      "duration": "April, 2025 - Present",
+      "description": [
+        "Built scalable backend APIs with Node.js and Express, handling 1,500+ daily requests and improving MongoDB performance by 20%.",
+        "Integrated identity verification and payment gateway APIs, boosting onboarding by 25% and achieving 99.9% transaction success.",
+        "Enhanced system performance with Redis caching, Docker, and Azure deployments, cutting API response times by 35%."
+      ]
+    },
+    {
+      "company": "AI Chef Master",
+      "position": "Backend Developer",
+      "duration": "Feb 2025 - Jun 2025",
+      "description": [
+        "Optimized backend services in Python with MongoDB, improving data retrieval speed by 40% and ensuring 99.9% uptime.",
+        "Built RESTful APIs with Flask, cutting integration effort by 35% and streamlining workflows.",
+        "Worked with frontend team on React.js and TailwindCSS, boosting mobile engagement by 30% and reducing load time by 20%.",
+        "Contributed to an AI module for intelligent recipe recommendations, raising user retention by 15%.",
+        "Deployed the app globally with CDN, achieving 40% faster load times."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Email Existence Checker",
+      "description": "A real-time email validation API that verifies and classifies email addresses, preventing spam and improving user registration quality",
+      "type": "API Service",
+      "technologies": [
+        "Python",
+        "Flask",
+        "SMTP",
+        "API"
+      ],
+      "image": "placeholder.png",
+      "demoUrl": "https://rapidapi.com/deveshkumarsingh75/api/email-existence-validator",
+      "codeUrl": null,
+      "display": true
+    },
+    {
+      "title": "Event Management App",
+      "description": "A web application for managing events, allowing users to create, organize, and participate in events with features like event creation, registration, and real-time updates.",
+      "type": "Full Stack",
+      "technologies": [
+        "ReactJS",
+        "Tailwind CSS",
+        "Node.js",
+        "ExpressJs",
+        "MongoDB",
+        "Cloudinary"
+      ],
+      "image": "/images/project/eventhub.png",
+      "demoUrl": "https://event-management-platform-khaki.vercel.app/",
+      "codeUrl": "https://github.com/techux/Event-Management-Platform",
+      "display": true
+    },
+    {
+      "title": "getindianname",
+      "description": "A Python package that generates Indian names based on specified parameters with over 280K+ downloads on PyPI.",
+      "type": "Python Package",
+      "technologies": [
+        "Python",
+        "PyPi",
+        "Package Development"
+      ],
+      "image": "https://socialify.git.ci/techux/getindianname/image?language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Auto",
+      "demoUrl": "https://pypi.org/project/getindianname/",
+      "codeUrl": "https://github.com/techux/getindianname",
+      "display": true
+    },
+    {
+      "title": "CouponHub",
+      "description": "A web application that aggregates and shares discount coupons from various e-commerce platforms, helping users save money while shopping online.",
+      "type": "Full Stack",
+      "technologies": [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "MongoDB",
+        "ExpressJs",
+        "Tailwind CSS"
+      ],
+      "image": "/images/project/couponhub.png",
+      "demoUrl": "https://coupon-distribution-system-35bx.vercel.app/",
+      "codeUrl": "https://github.com/techux/Coupon-Distribution-System",
+      "display": true
+    },
+    {
+      "title": "Library Management System",
+      "description": "A library management system that allows users to manage book inventories, track loans, and handle member registrations.",
+      "type": "Full Stack",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "BootstrapCSS",
+        "Node.js",
+        "ExpressJs",
+        "MongoDB"
+      ],
+      "image": "/images/project/library.png",
+      "demoUrl": "https://library-devesh.vercel.app/",
+      "codeUrl": "https://github.com/techux/Library-Management-System-Frontend",
+      "display": true
+    },
+    {
+      "title": "Intervue",
+      "description": "A mock interview platform that connects job seekers with industry professionals for practice interviews and feedback.",
+      "type": "Frontend",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "image": "/images/project/intervue.png",
+      "demoUrl": "https://intervueio-frontend-clone.vercel.app/",
+      "codeUrl": "https://github.com/techux/intervueio-frontend-clone",
+      "display": true
+    }
+  ],
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/techux",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/devesh75/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:deveshkumarsingh75@gmail.com?subject=Contact%20from%20Portfolio&body=Hello%20Devesh,",
+      "icon": "FaEnvelope"
+    }
+  ],
+  "contactInfo": [
+    {
+      "type": "Email",
+      "value": "deveshkumarsingh75@gmail.com",
+      "icon": "FaEnvelope"
+    },
+    {
+      "type": "Phone",
+      "value": "+919569543114",
+      "icon": "FaPhone"
+    },
+    {
+      "type": "Address",
+      "value": "India",
+      "icon": "FaMapMarkerAlt"
+    },
+    {
+      "type": "Availability",
+      "value": "Freelance Available",
+      "icon": "FaClock"
+    }
+  ]
+}
