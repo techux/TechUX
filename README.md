@@ -24,7 +24,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-841%20hrs%2019%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -32,9 +34,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 246.8 kB Used in GitHub's Storage 
+> 📦 246.9 kB Used in GitHub's Storage 
  > 
-> 🏆 865 Contributions in the Year 2026
+> 🏆 869 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,20 +47,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5708 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-🌆 Daytime                18591 commits       ████████░░░░░░░░░░░░░░░░░   33.44 % 
-🌃 Evening                28685 commits       █████████████░░░░░░░░░░░░   51.59 % 
+🌞 Morning                5708 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+🌆 Daytime                18591 commits       ████████░░░░░░░░░░░░░░░░░   33.43 % 
+🌃 Evening                28689 commits       █████████████░░░░░░░░░░░░   51.59 % 
 🌙 Night                  2619 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   8001 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Tuesday                  9189 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Monday                   8005 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Tuesday                  9189 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 Wednesday                8371 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Thursday                 8499 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Thursday                 8499 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 Friday                   7568 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Saturday                 7721 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Saturday                 7721 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 Sunday                   6254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 ```
 
@@ -69,22 +71,28 @@ Sunday                   6254 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 29 mins       ████████████████████░░░░░   80.99 % 
-Python                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript               8 hrs 29 mins       ██████████████████████░░░   89.77 % 
+Python                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  4 hrs 31 mins       ████████████████████░░░░░   81.59 % 
-pixelvault               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Ride-Evee-Backend        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+backend                  8 hrs 26 mins       ██████████████████████░░░   89.19 % 
+pixelvault               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Ride-Evee-Backend        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Windows                  5 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +112,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:52:10 UTC
+ Last Updated on 27/07/2026 20:14:22 UTC
 <!--END_SECTION:waka-->
 
 ---
