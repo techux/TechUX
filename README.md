@@ -24,7 +24,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-844%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-844%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2057%20mins-blue?style=flat)
 
@@ -36,7 +36,7 @@
 
 > 📦 246.9 kB Used in GitHub's Storage 
  > 
-> 🏆 869 Contributions in the Year 2026
+> 🏆 874 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,8 +48,8 @@
 
 ```text
 🌞 Morning                5708 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-🌆 Daytime                18626 commits       ████████░░░░░░░░░░░░░░░░░   33.45 % 
-🌃 Evening                28723 commits       █████████████░░░░░░░░░░░░   51.58 % 
+🌆 Daytime                18631 commits       ████████░░░░░░░░░░░░░░░░░   33.45 % 
+🌃 Evening                28723 commits       █████████████░░░░░░░░░░░░   51.57 % 
 🌙 Night                  2634 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -59,8 +59,8 @@ Monday                   8032 commits        ████░░░░░░░�
 Tuesday                  9196 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 Wednesday                8383 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 Thursday                 8499 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Friday                   7577 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Saturday                 7733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Friday                   7577 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Saturday                 7738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 Sunday                   6271 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
 ```
 
@@ -71,31 +71,31 @@ Sunday                   6271 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               11 hrs 29 mins      ██████████████████████░░░   89.71 % 
-Python                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JavaScript               10 hrs 13 mins      ██████████████████████░░░   88.62 % 
+Python                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  11 hrs 43 mins      ███████████████████████░░   91.58 % 
-pixelvault               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Ride-Evee-Backend        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-models                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+backend                  10 hrs 31 mins      ███████████████████████░░   91.19 % 
+pixelvault               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Ride-Evee-Backend        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+models                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  12 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (2.64%)
+⏱ AI Coding Time: 20 mins (2.93%)
 
-✍️ 0 lines written by AI, 4,488 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,652 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -127,7 +127,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 20:12:01 UTC
+ Last Updated on 01/08/2026 19:51:58 UTC
 <!--END_SECTION:waka-->
 
 ---
