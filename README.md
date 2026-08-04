@@ -24,7 +24,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2057%20mins-blue?style=flat)
 
@@ -34,9 +34,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 246.9 kB Used in GitHub's Storage 
+> 📦 247.0 kB Used in GitHub's Storage 
  > 
-> 🏆 878 Contributions in the Year 2026
+> 🏆 884 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,20 +48,20 @@
 
 ```text
 🌞 Morning                5708 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-🌆 Daytime                18634 commits       ████████░░░░░░░░░░░░░░░░░   33.45 % 
-🌃 Evening                28723 commits       █████████████░░░░░░░░░░░░   51.57 % 
-🌙 Night                  2635 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+🌆 Daytime                18636 commits       ████████░░░░░░░░░░░░░░░░░   33.45 % 
+🌃 Evening                28727 commits       █████████████░░░░░░░░░░░░   51.57 % 
+🌙 Night                  2638 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   8032 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Tuesday                  9196 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Monday                   8034 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Tuesday                  9200 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 Wednesday                8383 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 Thursday                 8499 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 Friday                   7577 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 Saturday                 7738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Sunday                   6275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Sunday                   6278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 ```
 
 
@@ -71,30 +71,27 @@ Sunday                   6275 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               13 hrs 19 mins      ████████████████████████░   97.41 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+JavaScript               7 hrs 21 mins       ████████████████████████░   94.78 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  13 hrs 37 mins      █████████████████████████   99.57 % 
-Ride-Evee-Backend        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-models                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+backend                  7 hrs 44 mins       █████████████████████████   99.79 % 
+models                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  13 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (2.47%)
+⏱ AI Coding Time: 20 mins (4.35%)
 
-✍️ 0 lines written by AI, 3,757 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,652 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -126,7 +123,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:50:08 UTC
+ Last Updated on 04/08/2026 20:19:31 UTC
 <!--END_SECTION:waka-->
 
 ---
