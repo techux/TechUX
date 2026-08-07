@@ -24,19 +24,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-852%20hrs%2013%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2057%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.71%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 247.0 kB Used in GitHub's Storage 
+> 📦 247.1 kB Used in GitHub's Storage 
  > 
-> 🏆 886 Contributions in the Year 2026
+> 🏆 891 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,69 +40,6 @@
  > 
 > 🔑 67 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5806 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-🌆 Daytime                18991 commits       ████████░░░░░░░░░░░░░░░░░   33.48 % 
-🌃 Evening                29252 commits       █████████████░░░░░░░░░░░░   51.57 % 
-🌙 Night                  2677 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   8179 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Tuesday                  9376 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Wednesday                8544 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Thursday                 8655 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Friday                   7717 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Saturday                 7865 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Sunday                   6390 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               7 hrs 49 mins       ████████████████████████░   94.20 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 18 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-backend                  8 hrs 17 mins       █████████████████████████   99.81 % 
-models                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-💻 Operating System: 
-Windows                  8 hrs 18 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 20 mins (4.07%)
-
-✍️ 0 lines written by AI, 2,967 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 78 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -124,7 +57,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:13:19 UTC
+ Last Updated on 07/08/2026 00:32:51 UTC
 <!--END_SECTION:waka-->
 
 ---
