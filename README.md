@@ -24,7 +24,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2057%20mins-blue?style=flat)
 
@@ -34,34 +34,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 247.2 kB Used in GitHub's Storage 
+> 📦 247.4 kB Used in GitHub's Storage 
  > 
-> 🏆 901 Contributions in the Year 2026
+> 🏆 918 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 68 Public Repositories 
  > 
-> 🔑 67 Private Repositories 
+> 🔑 68 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5806 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-🌆 Daytime                19030 commits       ████████░░░░░░░░░░░░░░░░░   33.49 % 
-🌃 Evening                29295 commits       █████████████░░░░░░░░░░░░   51.55 % 
-🌙 Night                  2700 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+🌞 Morning                5811 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+🌆 Daytime                19030 commits       ████████░░░░░░░░░░░░░░░░░   33.48 % 
+🌃 Evening                29302 commits       █████████████░░░░░░░░░░░░   51.55 % 
+🌙 Night                  2704 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   8198 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Tuesday                  9385 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                8552 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Thursday                 8664 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Monday                   8207 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Tuesday                  9388 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Wednesday                8554 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Thursday                 8664 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 Friday                   7731 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 Saturday                 7889 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Sunday                   6412 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Sunday                   6414 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 ```
 
 
@@ -71,23 +71,24 @@ Sunday                   6412 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               11 hrs 8 mins       ███████████████████████░░   90.08 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+JavaScript               14 hrs 30 mins      ██████████████████████░░░   87.59 % 
+Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  11 hrs 45 mins      ████████████████████████░   95.04 % 
-userApp                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-PORTFOLIO                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-v2                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+backend                  15 hrs 42 mins      ████████████████████████░   94.80 % 
+userApp                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+PORTFOLIO                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+v2                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Ride-Evee-Backend        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  12 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,11 +100,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               47 repos            ██████████░░░░░░░░░░░░░░░   41.23 % 
-Python                   22 repos            █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-HTML                     19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+JavaScript               48 repos            ██████████░░░░░░░░░░░░░░░   41.74 % 
+Python                   22 repos            █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+HTML                     19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 
@@ -113,7 +114,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:19:32 UTC
+ Last Updated on 11/08/2026 19:44:37 UTC
 <!--END_SECTION:waka-->
 
 ---
