@@ -34,7 +34,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 249.0 kB Used in GitHub's Storage 
+> 📦 249.1 kB Used in GitHub's Storage 
  > 
 > 🏆 924 Contributions in the Year 2026
  > 
@@ -71,22 +71,22 @@ Sunday                   6638 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               11 hrs 15 mins      █████████████████████░░░░   84.17 % 
-Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-TypeScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JavaScript               8 hrs 30 mins       ████████████████████░░░░░   81.12 % 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  12 hrs 36 mins      ████████████████████████░   94.30 % 
-userApp                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Ride-Evee-Backend        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+backend                  9 hrs 50 mins       ███████████████████████░░   93.96 % 
+userApp                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Ride-Evee-Backend        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  13 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +112,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 19:04:19 UTC
+ Last Updated on 16/08/2026 19:04:13 UTC
 <!--END_SECTION:waka-->
 
 ---
