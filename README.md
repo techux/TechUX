@@ -71,22 +71,22 @@ Sunday                   6862 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 55 mins             ███████████░░░░░░░░░░░░░░   43.94 % 
-JavaScript               41 mins             ████████░░░░░░░░░░░░░░░░░   33.23 % 
-PHP                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Markdown                 35 mins             █████████████░░░░░░░░░░░░   50.99 % 
+PHP                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+JavaScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  1 hr 1 min          ████████████░░░░░░░░░░░░░   49.17 % 
-Plugin                   40 mins             ████████░░░░░░░░░░░░░░░░░   32.43 % 
-userApp                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Plugin                   40 mins             ███████████████░░░░░░░░░░   59.38 % 
+userApp                  19 mins             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+backend                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +112,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:12:15 UTC
+ Last Updated on 20/08/2026 19:19:46 UTC
 <!--END_SECTION:waka-->
 
 ---
