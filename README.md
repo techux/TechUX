@@ -24,7 +24,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-871%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2057%20mins-blue?style=flat)
 
@@ -71,22 +71,21 @@ Sunday                   6862 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 35 mins             █████████████░░░░░░░░░░░░   50.99 % 
-PHP                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-JavaScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 35 mins             ███████████████░░░░░░░░░░   58.28 % 
+PHP                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Plugin                   40 mins             ███████████████░░░░░░░░░░   59.38 % 
-userApp                  19 mins             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-backend                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Plugin                   40 mins             █████████████████░░░░░░░░   67.87 % 
+userApp                  19 mins             ████████░░░░░░░░░░░░░░░░░   32.13 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +111,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 19:19:46 UTC
+ Last Updated on 21/08/2026 19:17:59 UTC
 <!--END_SECTION:waka-->
 
 ---
