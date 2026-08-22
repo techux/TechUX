@@ -71,21 +71,20 @@ Sunday                   6862 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 35 mins             ███████████████░░░░░░░░░░   58.28 % 
-PHP                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Markdown                 1 hr 56 mins        ███████████████████████░░   90.16 % 
+PHP                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Plugin                   40 mins             █████████████████░░░░░░░░   67.87 % 
-userApp                  19 mins             ████████░░░░░░░░░░░░░░░░░   32.13 % 
+Plugin                   2 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,7 +110,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:17:59 UTC
+ Last Updated on 22/08/2026 19:04:14 UTC
 <!--END_SECTION:waka-->
 
 ---
