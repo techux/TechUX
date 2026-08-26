@@ -71,23 +71,44 @@ Sunday                   6862 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 25 mins        █████████████████████████   99.11 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Markdown                 1 hr 31 mins        ██████████████████░░░░░░░   71.97 % 
+PHP                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Plugin                   1 hr 26 mins        █████████████████████████   100.00 % 
+Plugin                   1 hr 34 mins        ███████████████████░░░░░░   74.33 % 
+factories                19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+PORTFOLIO                13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 19 mins (15.22%)
+
+✍️ 55 lines written by AI, 260 lines written by hand (17.46% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Github-Copilot           55 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 17.46% of written lines came from AI
+📝 Concise Prompter — average 29 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 88.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +128,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:19:52 UTC
+ Last Updated on 26/08/2026 20:34:10 UTC
 <!--END_SECTION:waka-->
 
 ---
