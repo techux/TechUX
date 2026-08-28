@@ -24,7 +24,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2016%20mins-blue?style=flat)
 
@@ -71,28 +71,28 @@ Sunday                   6862 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 31 mins        ██████████████████░░░░░░░   71.97 % 
-PHP                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Markdown                 1 hr 31 mins        ██████████████████░░░░░░░   72.02 % 
+PHP                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Plugin                   1 hr 34 mins        ███████████████████░░░░░░   74.33 % 
-factories                19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-PORTFOLIO                13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Plugin                   1 hr 34 mins        ███████████████████░░░░░░   74.37 % 
+factories                19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+PORTFOLIO                13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 
 💻 Operating System: 
-Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (15.22%)
+⏱ AI Coding Time: 19 mins (15.2%)
 
 ✍️ 55 lines written by AI, 260 lines written by hand (17.46% AI-written)
 
@@ -128,7 +128,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:34:10 UTC
+ Last Updated on 28/08/2026 02:25:25 UTC
 <!--END_SECTION:waka-->
 
 ---
