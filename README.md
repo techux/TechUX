@@ -71,44 +71,45 @@ Sunday                   6862 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 31 mins        ██████████████████░░░░░░░   72.02 % 
-PHP                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+PHP                      21 mins             ████████████░░░░░░░░░░░░░   47.65 % 
+Markdown                 10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+YAML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Plugin                   1 hr 34 mins        ███████████████████░░░░░░   74.37 % 
-factories                19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-PORTFOLIO                13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+factories                19 mins             ██████████░░░░░░░░░░░░░░░   41.90 % 
+PORTFOLIO                17 mins             ██████████░░░░░░░░░░░░░░░   39.19 % 
+Plugin                   8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+agent-customization      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (15.2%)
+⏱ AI Coding Time: 23 mins (52.2%)
 
-✍️ 55 lines written by AI, 260 lines written by hand (17.46% AI-written)
+✍️ 121 lines written by AI, 8 lines written by hand (93.8% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 38,053 Input Tokens, 402 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.12 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
-Github-Copilot           55 lines            █████████████████████████   100.00 % 
+Github-Copilot           121 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.46% of written lines came from AI
-📝 Concise Prompter — average 29 characters per prompt
+🤖 AI-Driven — 93.8% of written lines came from AI
+📝 Concise Prompter — average 124 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 88.37% of changed lines were hand-edited
+🚀 High AI Trust — 13.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +129,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:25:25 UTC
+ Last Updated on 29/08/2026 02:00:32 UTC
 <!--END_SECTION:waka-->
 
 ---
