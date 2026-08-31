@@ -71,45 +71,46 @@ Sunday                   6862 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      21 mins             ████████████░░░░░░░░░░░░░   47.65 % 
-Markdown                 10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-YAML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+PHP                      21 mins             █████████░░░░░░░░░░░░░░░░   36.20 % 
+Markdown                 20 mins             ████████░░░░░░░░░░░░░░░░░   33.14 % 
+YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-factories                19 mins             ██████████░░░░░░░░░░░░░░░   41.90 % 
-PORTFOLIO                17 mins             ██████████░░░░░░░░░░░░░░░   39.19 % 
-Plugin                   8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-agent-customization      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+factories                19 mins             ████████░░░░░░░░░░░░░░░░░   31.83 % 
+pixelvault               16 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+PORTFOLIO                13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Plugin                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (52.2%)
+⏱ AI Coding Time: 24 mins (41.23%)
 
-✍️ 121 lines written by AI, 8 lines written by hand (93.8% AI-written)
+✍️ 55 lines written by AI, 327 lines written by hand (14.4% AI-written)
 
-🔤 38,053 Input Tokens, 402 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.12 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
 🧠 2 AI Sessions, 3 AI Prompts
 
-Github-Copilot           121 lines           █████████████████████████   100.00 % 
+Github-Copilot           55 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.8% of written lines came from AI
-📝 Concise Prompter — average 124 characters per prompt
+🧑‍💻 Mostly Hands-On — 14.4% of written lines came from AI
+📝 Concise Prompter — average 98 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 13.57% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 86.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -129,7 +130,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:28:07 UTC
+ Last Updated on 31/08/2026 23:09:55 UTC
 <!--END_SECTION:waka-->
 
 ---
