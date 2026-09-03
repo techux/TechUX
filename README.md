@@ -71,29 +71,29 @@ Sunday                   6862 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               17 mins             █████████░░░░░░░░░░░░░░░░   34.77 % 
-Markdown                 14 mins             ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-JSON                     13 mins             ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+JavaScript               17 mins             ████████░░░░░░░░░░░░░░░░░   30.99 % 
+Markdown                 14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+JSON                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Ride-Evee-Backend        31 mins             ███████████████░░░░░░░░░░   61.33 % 
-pixelvault               16 mins             ████████░░░░░░░░░░░░░░░░░   31.92 % 
-Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Plugin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Ride-Evee-Backend        31 mins             ██████████████░░░░░░░░░░░   54.66 % 
+pixelvault               16 mins             ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+Plugin                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (10.9%)
+⏱ AI Coding Time: 5 mins (9.72%)
 
 ✍️ 0 lines written by AI, 320 lines written by hand (0.0% AI-written)
 
@@ -127,7 +127,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:23:49 UTC
+ Last Updated on 03/09/2026 21:22:03 UTC
 <!--END_SECTION:waka-->
 
 ---
