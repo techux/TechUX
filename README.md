@@ -24,7 +24,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2030%20mins-blue?style=flat)
 
@@ -34,7 +34,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 270.6 kB Used in GitHub's Storage 
+> 📦 270.7 kB Used in GitHub's Storage 
  > 
 > 🏆 931 Contributions in the Year 2026
  > 
@@ -71,20 +71,20 @@ Sunday                   7101 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     11 mins             █████████░░░░░░░░░░░░░░░░   35.44 % 
-Git Config               8 mins              ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-TypeScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+TypeScript               14 mins             ████████░░░░░░░░░░░░░░░░░   32.55 % 
+JSON                     12 mins             ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+Git Config               8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Bash                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wallpaper-app            33 mins             █████████████████████████   100.00 % 
+wallpaper-app            43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,7 +110,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:44:33 UTC
+ Last Updated on 16/09/2026 21:40:49 UTC
 <!--END_SECTION:waka-->
 
 ---
