@@ -24,7 +24,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2030%20mins-blue?style=flat)
 
@@ -71,16 +71,22 @@ Sunday                   7213 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     21 mins             █████████░░░░░░░░░░░░░░░░   37.99 % 
+TypeScript               19 mins             █████████░░░░░░░░░░░░░░░░   35.03 % 
+JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+summer-hat-e59c          36 mins             ████████████████░░░░░░░░░   64.75 % 
+backend                  12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+wallpaper-admin          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  56 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,7 +112,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:51:02 UTC
+ Last Updated on 25/09/2026 21:56:52 UTC
 <!--END_SECTION:waka-->
 
 ---
