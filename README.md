@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,28 +71,44 @@ Sunday                   7213 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     21 mins             █████████░░░░░░░░░░░░░░░░   37.99 % 
-TypeScript               19 mins             █████████░░░░░░░░░░░░░░░░   35.03 % 
-JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+JSON                     27 mins             ██████████░░░░░░░░░░░░░░░   39.39 % 
+TypeScript               27 mins             ██████████░░░░░░░░░░░░░░░   38.74 % 
+JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-summer-hat-e59c          36 mins             ████████████████░░░░░░░░░   64.75 % 
-backend                  12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-wallpaper-admin          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+summer-hat-e59c          36 mins             █████████████░░░░░░░░░░░░   52.41 % 
+wallpaper-admin          20 mins             ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+backend                  12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 mins (3.23%)
+
+✍️ 0 lines written by AI, 112 lines written by hand (0.0% AI-written)
+
+🔤 29,683 Input Tokens, 190 Output Tokens
+
+💵 $0.09 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 49 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +128,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 21:56:52 UTC
+ Last Updated on 26/09/2026 21:32:27 UTC
 <!--END_SECTION:waka-->
 
 ---
