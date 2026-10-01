@@ -71,32 +71,32 @@ Sunday                   7229 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 12 mins       █████████████████░░░░░░░░   68.39 % 
-JSON                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+TypeScript               3 hrs 52 mins       ███████████████████░░░░░░   74.47 % 
+Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wallpaper-admin          4 hrs 25 mins       ██████████████████░░░░░░░   71.92 % 
-wallpaper-app            48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-summer-hat-e59c          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-backend                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-data                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+wallpaper-admin          4 hrs 18 mins       █████████████████████░░░░   82.71 % 
+wallpaper-app            48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+backend                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+data                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Ride-Evee-Backend        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  6 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 7 mins (18.27%)
+⏱ AI Coding Time: 1 hr 7 mins (21.6%)
 
-✍️ 2,578 lines written by AI, 4,136 lines written by hand (38.4% AI-written)
+✍️ 2,578 lines written by AI, 4,037 lines written by hand (38.97% AI-written)
 
 🔤 29,683 Input Tokens, 190 Output Tokens
 
@@ -107,10 +107,10 @@ Windows                  6 hrs 8 mins        ███████████�
 Github-Copilot           2,578 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.4% of written lines came from AI
+⚖️ Balanced with AI — 38.97% of written lines came from AI
 📄 Detailed Prompter — average 701 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 70.29% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 69.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +130,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:39:07 UTC
+ Last Updated on 01/10/2026 22:59:57 UTC
 <!--END_SECTION:waka-->
 
 ---
