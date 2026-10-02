@@ -44,75 +44,6 @@
  > 
 > 🔑 70 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                6501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-🌆 Daytime                21575 commits       ████████░░░░░░░░░░░░░░░░░   33.67 % 
-🌃 Evening                33010 commits       █████████████░░░░░░░░░░░░   51.51 % 
-🌙 Night                  2995 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   9250 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Tuesday                  10640 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Wednesday                9686 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Thursday                 9761 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Friday                   8724 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Saturday                 8791 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Sunday                   7229 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               3 hrs 52 mins       ███████████████████░░░░░░   74.47 % 
-Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 12 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-wallpaper-admin          4 hrs 18 mins       █████████████████████░░░░   82.71 % 
-wallpaper-app            48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-backend                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-data                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Ride-Evee-Backend        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-
-💻 Operating System: 
-Windows                  5 hrs 12 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 7 mins (21.6%)
-
-✍️ 2,578 lines written by AI, 4,037 lines written by hand (38.97% AI-written)
-
-🔤 29,683 Input Tokens, 190 Output Tokens
-
-💵 $0.09 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 9 AI Prompts
-
-Github-Copilot           2,578 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.97% of written lines came from AI
-📄 Detailed Prompter — average 701 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 69.86% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -130,7 +61,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:59:57 UTC
+ Last Updated on 02/10/2026 22:35:11 UTC
 <!--END_SECTION:waka-->
 
 ---
