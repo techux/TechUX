@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-887%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -36,7 +36,7 @@
 
 > 📦 271.2 kB Used in GitHub's Storage 
  > 
-> 🏆 948 Contributions in the Year 2026
+> 🏆 950 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,7 +50,7 @@
 🌞 Morning                6501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 🌆 Daytime                21577 commits       ████████░░░░░░░░░░░░░░░░░   33.65 % 
 🌃 Evening                33036 commits       █████████████░░░░░░░░░░░░   51.52 % 
-🌙 Night                  3005 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+🌙 Night                  3007 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -61,7 +61,7 @@ Wednesday                9686 commits        ████░░░░░░░�
 Thursday                 9761 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 Friday                   8724 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 Saturday                 8791 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Sunday                   7249 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Sunday                   7251 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 ```
 
 
@@ -71,22 +71,43 @@ Sunday                   7249 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               23 mins             █████████████░░░░░░░░░░░░   53.35 % 
+JSON                     14 mins             ████████░░░░░░░░░░░░░░░░░   33.31 % 
+Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  33 mins             ███████████████████░░░░░░   77.23 % 
+Copilot CLI              9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wallpaper-app            43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 12 mins (29.11%)
+
+✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+GPT                      1 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 695 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 85.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +127,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 21:38:49 UTC
+ Last Updated on 17/10/2026 20:58:50 UTC
 <!--END_SECTION:waka-->
 
 ---
