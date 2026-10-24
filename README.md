@@ -71,45 +71,45 @@ Sunday                   7476 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-TypeScript               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Python                   1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+HTML                     2 hrs 6 mins        ██████████████░░░░░░░░░░░   56.83 % 
+Python                   47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+TypeScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 56 mins       ██████████████████░░░░░░░   71.73 % 
-Copilot CLI              1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+VS Code                  2 hrs 38 mins       ██████████████████░░░░░░░   71.54 % 
+Copilot CLI              1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
 
 🐱‍💻 Projects: 
-wallpaper-app            5 hrs 39 mins       █████████████████████░░░░   82.11 % 
-pixelvault               1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+wallpaper-app            3 hrs 15 mins       ██████████████████████░░░   88.23 % 
+pixelvault               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 
 💻 Operating System: 
-Windows                  6 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs (43.72%)
+⏱ AI Coding Time: 1 hr 38 mins (44.42%)
 
-✍️ 576 lines written by AI, 33,943 lines written by hand (1.67% AI-written)
+✍️ 538 lines written by AI, 32,516 lines written by hand (1.63% AI-written)
 
-🔤 3,002,232 Input Tokens, 480,134 Output Tokens
+🔤 373,469 Input Tokens, 69,747 Output Tokens
 
-💵 $1.77 Estimated AI Cost This Week
+💵 $0.27 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 23 AI Prompts
+🧠 2 AI Sessions, 14 AI Prompts
 
-GPT                      743 lines           █████████████████████████   99.87 % 
-Vscode                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+GPT                      674 lines           █████████████████████████   99.85 % 
+Vscode                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.67% of written lines came from AI
-📝 Concise Prompter — average 209 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 98.64% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.63% of written lines came from AI
+📝 Concise Prompter — average 176 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 98.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -129,7 +129,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/techux/techux/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:43:54 UTC
+ Last Updated on 24/10/2026 21:11:59 UTC
 <!--END_SECTION:waka-->
 
 ---
